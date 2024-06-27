@@ -1,4 +1,4 @@
-# Ai-5
+# SearchEngine.ai
 Search Engine for AI-ML Blogs
 A minimalistic Python search engine for the latest AI-ML blogs from the top researchers, tech firms and varsities.<br>
 <h3>Modules Used:</h3>
